@@ -1,10 +1,16 @@
 _repo: Orville-Southerland-Cox-Pioneer-of-1847_50322
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50322-h/images/cover.jpg
 creator:
   author:
     agent_name: Sidwell, Adelia B. Cox
     gutenberg_agent_id: '45818'
     url: http://www.gutenberg.org/2009/agents/45818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50322#Orville-Southerland-Cox-Pioneer-of-1847
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
